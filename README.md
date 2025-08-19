@@ -108,18 +108,103 @@ airbnb-clone-project/
 4. **Open your browser**
    Navigate to `http://localhost:3000` to view the application
 
-## 👥 Team Roles & Responsibilities
+## 👥 Project Roles and Responsibilities
 
-| Role | Responsibilities |
-|------|-----------------|
-| **Project Manager** | Timeline oversight, team coordination, deliverable management |
-| **Frontend Developers** | UI implementation, responsive design, component development |
-| **Backend Developers** | API development, database management, business logic |
-| **Designers** | Mockup creation, design system maintenance, UX quality |
-| **QA/Testers** | Test case development, testing execution, bug reporting |
-| **DevOps Engineers** | Deployment management, CI/CD pipeline, infrastructure |
-| **Product Owner** | Requirements definition, feature prioritization, stakeholder representation |
-| **Scrum Master** | Agile facilitation, blocker removal, meeting organization |
+Our project success depends on clearly defined roles and collaborative teamwork. Each team member brings specialized skills and takes ownership of specific aspects of the development process.
+
+### Project Manager
+**Key Responsibilities:**
+- **Timeline Management**: Create and maintain project schedules, track milestones, and ensure deliverables are completed on time
+- **Team Coordination**: Facilitate communication between different teams and stakeholders to ensure alignment on project goals
+- **Resource Allocation**: Manage team workload distribution and identify potential bottlenecks or resource constraints
+- **Risk Management**: Identify potential project risks and develop mitigation strategies to keep the project on track
+- **Stakeholder Communication**: Provide regular project updates and status reports to stakeholders and upper management
+
+**Contribution to Success**: Ensures the project stays on schedule, within scope, and meets quality standards while maintaining team productivity and morale.
+
+### Frontend Developers
+**Key Responsibilities:**
+- **UI Implementation**: Transform design mockups into interactive, responsive web interfaces using React and modern CSS
+- **Component Development**: Build reusable, maintainable component library following best practices for scalability
+- **Performance Optimization**: Implement lazy loading, code splitting, and other techniques to ensure fast page load times
+- **Cross-Browser Compatibility**: Ensure consistent user experience across different browsers and devices
+- **API Integration**: Connect frontend components with backend services and handle data state management
+
+**Contribution to Success**: Creates the user-facing experience that directly impacts user satisfaction and platform usability.
+
+### Backend Developers
+**Key Responsibilities:**
+- **API Development**: Design and implement RESTful APIs for property management, user authentication, and booking functionality
+- **Database Design**: Create efficient database schemas for properties, users, bookings, and reviews with proper relationships
+- **Business Logic Implementation**: Develop core platform functionality including search algorithms, pricing calculations, and booking validation
+- **Security Implementation**: Ensure secure user authentication, data protection, and payment processing integration
+- **Performance Optimization**: Implement caching strategies, database indexing, and efficient query optimization
+
+**Contribution to Success**: Provides the robust foundation that powers all platform functionality and ensures data integrity and security.
+
+### Designers
+**Key Responsibilities:**
+- **UI/UX Design**: Create wireframes, mockups, and prototypes that prioritize user experience and conversion optimization
+- **Design System Maintenance**: Develop and maintain consistent visual design language including colors, typography, and component styles
+- **User Research**: Conduct usability testing and gather user feedback to inform design decisions and improvements
+- **Responsive Design Planning**: Ensure designs work seamlessly across desktop, tablet, and mobile devices
+- **Brand Identity**: Maintain visual consistency that builds trust and recognition for the StayEase platform
+
+**Contribution to Success**: Shapes the user experience that determines platform adoption, user satisfaction, and competitive differentiation.
+
+### QA/Testers
+**Key Responsibilities:**
+- **Test Planning**: Develop comprehensive test cases covering functional, usability, and performance requirements
+- **Manual Testing**: Execute user acceptance testing scenarios to validate features meet requirements and work as expected
+- **Automated Testing**: Implement unit tests, integration tests, and end-to-end testing to catch regressions early
+- **Bug Documentation**: Report, track, and verify fixes for identified issues with detailed reproduction steps
+- **Performance Testing**: Validate application performance under various load conditions and user scenarios
+
+**Contribution to Success**: Ensures platform reliability, user experience quality, and prevents costly post-launch issues.
+
+### DevOps Engineers
+**Key Responsibilities:**
+- **Infrastructure Management**: Set up and maintain cloud hosting environments, databases, and related services
+- **CI/CD Pipeline**: Implement automated build, test, and deployment processes to streamline development workflow
+- **Monitoring and Logging**: Establish system monitoring, error tracking, and performance metrics to ensure platform stability
+- **Security Configuration**: Implement security best practices for server configuration, SSL certificates, and access controls
+- **Scalability Planning**: Design infrastructure that can handle growth in user traffic and data volume
+
+**Contribution to Success**: Enables reliable platform operation, smooth deployments, and scalable infrastructure that supports business growth.
+
+### Product Owner
+**Key Responsibilities:**
+- **Requirements Definition**: Gather and document detailed functional requirements based on user needs and business objectives
+- **Feature Prioritization**: Make strategic decisions about which features to build first based on user value and technical complexity
+- **Stakeholder Management**: Serve as the primary liaison between development team and business stakeholders
+- **User Story Creation**: Write clear, actionable user stories that guide development and testing efforts
+- **Acceptance Criteria**: Define what constitutes successful completion of features and validate final implementations
+
+**Contribution to Success**: Ensures the platform meets real user needs and business objectives while maximizing return on development investment.
+
+### Scrum Master
+**Key Responsibilities:**
+- **Agile Process Facilitation**: Lead daily standups, sprint planning, retrospectives, and other Scrum ceremonies
+- **Impediment Removal**: Identify and resolve blockers that prevent team members from completing their work effectively
+- **Team Coaching**: Guide the team in Agile best practices and continuous improvement methodologies
+- **Cross-Team Communication**: Facilitate collaboration between different roles and resolve conflicts constructively
+- **Metrics and Reporting**: Track team velocity, burndown charts, and other metrics to optimize team performance
+
+**Contribution to Success**: Maintains team productivity, ensures smooth communication, and fosters a collaborative environment that delivers high-quality results efficiently.
+
+### Collaboration Framework
+
+**Daily Communication**: Regular standups ensure all team members stay aligned on progress, blockers, and priorities.
+
+**Sprint Planning**: Collaborative planning sessions where all roles contribute to realistic sprint goals and task estimation.
+
+**Code Reviews**: Frontend and Backend developers cross-review code to maintain quality and share knowledge.
+
+**Design Reviews**: Designers work closely with Frontend developers to ensure pixel-perfect implementation of designs.
+
+**Testing Integration**: QA/Testers work alongside developers throughout the development process, not just at the end.
+
+**Continuous Feedback**: Regular retrospectives allow the team to identify what's working well and areas for improvement.
 
 ## 🧩 UI Component Architecture
 
