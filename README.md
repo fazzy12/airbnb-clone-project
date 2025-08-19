@@ -206,7 +206,7 @@ Our project success depends on clearly defined roles and collaborative teamwork.
 
 **Continuous Feedback**: Regular retrospectives allow the team to identify what's working well and areas for improvement.
 
-## 🧩 UI Component Architecture
+## 🧩 UI Component Patterns
 
 ### Planned Reusable Components
 
