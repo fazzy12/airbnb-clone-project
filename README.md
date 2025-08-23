@@ -506,6 +506,8 @@ airbnb-clone-project/
 
 Our AirBnB Clone project success depends on specialized team members working collaboratively to deliver a robust, scalable backend system. Each role contributes essential skills and expertise to ensure the platform meets enterprise-level standards.
 
+## Project Roles and Responsibilities
+
 ### Backend Developer
 **Primary Responsibilities:**
 - **API Endpoint Implementation**: Design and develop RESTful API endpoints for users, properties, bookings, payments, and reviews using Django REST Framework
